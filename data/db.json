@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "desc": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "desc": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Design landing page",
+      "desc": "blah blah blah blah",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
